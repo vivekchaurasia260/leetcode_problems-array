@@ -7,5 +7,3 @@ sfg
 sfg
 fsg
 
-fg
-df
