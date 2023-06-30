@@ -5,5 +5,3 @@ There are variety of questions
 
 rew
 wr
-t
-wrt
