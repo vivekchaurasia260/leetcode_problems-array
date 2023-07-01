@@ -6,3 +6,6 @@ There are variety of questions
 sfg
 
 frwtwr
+wr
+trwt
+twr
