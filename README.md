@@ -7,5 +7,3 @@ sfg
 
 frwtwr
 wr
-trwt
-twr
