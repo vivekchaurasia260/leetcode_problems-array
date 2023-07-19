@@ -10,6 +10,4 @@ hmjg
 
 sf
 eyey
-etyet
-jhfw
-gsfg
+
