@@ -8,6 +8,3 @@ sfhgsf
 hjhg
 hmjg
 
-sf
-eyey
-
