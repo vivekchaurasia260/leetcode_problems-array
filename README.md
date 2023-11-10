@@ -5,6 +5,3 @@ There are variety of questions
 
 kjshdf 
 sfhgsf
-hjhg
-hmjg
-
