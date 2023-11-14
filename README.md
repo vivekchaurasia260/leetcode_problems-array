@@ -6,5 +6,3 @@ There are variety of questions
 
 gfsg
 dfg
-dfgh
-d
