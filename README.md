@@ -8,3 +8,6 @@ gfsg
 fd
 fsg
 fsg
+wg
+w
+gs
