@@ -6,5 +6,5 @@ There are variety of questions
 
 gfsg
 fd
-qer
-err
+fsg
+fsg
