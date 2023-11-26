@@ -6,4 +6,3 @@ There are variety of questions
 
 gfsg
 fd
-fsg
