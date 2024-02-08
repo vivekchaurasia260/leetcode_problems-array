@@ -5,4 +5,6 @@ There are variety of questions
 
 Array
 LinkedList
+Stack
+Queue
 Tree
