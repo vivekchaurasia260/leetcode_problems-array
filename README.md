@@ -5,3 +5,4 @@ There are variety of questions
 
 Array
 LinkedList
+Tree
