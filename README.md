@@ -8,3 +8,4 @@ LinkedList
 Stack
 Queue
 Tree
+Graph
