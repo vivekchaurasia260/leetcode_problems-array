@@ -9,5 +9,3 @@ Stack
 Queue
 Tree
 Graph
-wg
-f
