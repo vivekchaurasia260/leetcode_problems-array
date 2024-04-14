@@ -10,7 +10,4 @@ Queue
 Tree
 Graph
 Tries
-sfhgdfsh
-vsfv
-fg
-sfg
+sfhgd
