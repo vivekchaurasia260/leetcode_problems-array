@@ -11,7 +11,3 @@ Tree
 Graph
 Tries
 sfhgd
-g
-sfg
-sf
-g
