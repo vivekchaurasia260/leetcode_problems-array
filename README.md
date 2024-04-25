@@ -12,6 +12,4 @@ Graph
 Tries
 
 adfadf
-sfhgd
-htf
-jhtf
+sf
