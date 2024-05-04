@@ -12,5 +12,3 @@ Graph
 Tries
 
 adf
-sdg
-wfgs
