@@ -12,6 +12,4 @@ Graph
 Tries
 
 adf
-sgwsg
-sdgsg
-sdg
+sgws
