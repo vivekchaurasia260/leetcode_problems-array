@@ -13,6 +13,4 @@ Tries
 
 adf
 sgwsgfg
-fsggf
-wreget
-sfgsg
+fs
